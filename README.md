@@ -2,7 +2,7 @@
 **A passionate Fullstack + No-Code + AI Developer from Pakistan**  
 Email Me 👉 ✉️ **[hey@yasir.qzz.io](mailto:hey@yasir.qzz.io)** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on**: Automating website generation with AI for Nordcraft
+- 🔭 **I’m currently working on**: Currently working on building my hobby projects
 - 🌱 **I’m currently learning**: Advanced prompt engineering and scalable API integrations
 - 👯 **I’m looking to collaborate on**: AI-powered web projects and no-code automation tools
 - 🤔 **I’m looking for help with**: Exploring new AI integrations and developer toolkits
