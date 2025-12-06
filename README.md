@@ -1,43 +1,73 @@
-# 💫 Hi there, I'm Yasir Khan.
+# 💫 Hi there, I'm Yasir Khan
 
-**I bridge the gap between complex code and rapid deployment.**  
-*Fullstack Developer | No-Code Specialist | AI Enthusiast*
+**I fix AI‑generated MVPs and build AI support chatbots.**  
+*Full‑Stack Next.js/Firebase Developer & AI Engineer*
 
 ---
 
 ### 🧐 What I actually do
-I don't just write code; I build solutions. Sometimes that means crafting a custom architecture in **Next.js**. Other times, it means leveraging **No-Code** tools to validate an idea in 24 hours. 
 
-I believe the future of dev isn't just about syntax—it's about how effectively we can integrate **AI and automation** to solve real human problems.
+I help SaaS founders and online businesses ship products that don’t fall apart in production.
 
-- 🔭 **Current Focus**: Building AI-wrapper applications that actually feel human.
-- 🌱 **Learning**: Pushing the limits of LLMs (Large Language Models) and scalable API architecture.
-- ⚡ **Philosophy**: If we can automate it, we should. If we can't, let's code it beautifully.
+- 🔧 **Rescue AI‑generated / “vibecoded” MVPs**  
+  Clean up Cursor / Lovable / Bolt codebases, fix Vercel/Firebase errors, and turn fragile prototypes into stable apps.
 
----
+- 🤖 **Build AI customer support & FAQ chatbots**  
+  LangChain‑powered assistants that answer from your own docs, FAQs, and product data instead of guessing.
 
-### 🛠 The Toolbox
-*I pick the right tool for the job. Here is what I use to ship:*
+- ⚙️ **Ship full‑stack web apps**  
+  Modern, type‑safe React/Next.js or SvelteKit frontends with Firebase backends that are ready for real users, not just demos.
 
-**Core Stack**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-
-**Backend & Cloud**  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-
-**Design & Testing**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+- 🌱 **Current focus**  
+  Multi‑tenant AI support bots, RAG (“talk to your data”) systems, and better patterns for AI‑augmented engineering.
 
 ---
 
-### 🤝 Let's Collaborate
-Got an idea that needs to be built yesterday? Need to figure out if you should Code it or No-Code it?
+### 🛠 Toolbox
 
-<a href="mailto:hey@yasir.qzz.io">
-  <img src="https://img.shields.io/badge/Send_me_an_email-hey%40yasir.qzz.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+*I ship fast, but with senior‑level architecture.*
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Data**  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+**AI / LLM**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_Ai_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-121212?style=flat-square)
+
+**DevOps & Hosting**  
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+### 🤝 Let’s collaborate
+
+Got an **AI‑generated Next.js/Firebase app** that keeps breaking?  
+Want an **AI support chatbot** that actually uses your docs and FAQs?
+
+<a href="mailto:yasirwebio@gmail.com">
+  <img src="https://img.shields.io/badge/Email_me-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
 </a>
 <a href="https://linkedin.com/in/connectyasir">
-  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://withyasir.com">
+  <img src="https://img.shields.io/badge/Visit-My_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 <br />
