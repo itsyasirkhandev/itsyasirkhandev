@@ -66,7 +66,7 @@ Want an **AI support chatbot** that actually uses your docs and FAQs?
 <a href="https://linkedin.com/in/connectyasir">
   <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://withyasir.com">
+<a href="https://yasir.qzz.io">
   <img src="https://img.shields.io/badge/Visit-My_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
