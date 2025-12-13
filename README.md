@@ -1,19 +1,29 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Yasir Khan**, a full-stack developer & AI engineer based on fixing broken AI MVPs and building RAG systems.
+I’m **Yasir Khan** — full‑stack developer & AI engineer.  
+I **rescue broken AI MVPs**, ship production-ready features, and build **RAG systems** that actually work.
 
-If an idea pops into my head, I'll build it and ship it. I've built 10+ public repos and I'm always working on something new.
+If I can imagine it, I’ll build it and ship it.
 
-Right now, my favorite project is [youtube-rag](https://github.com/itsyasirkhandev/youtube-rag) – it lets you extract YouTube captions, generate embeddings, and have actual conversations about video content using RAG & Cloudflare Workers. Pretty cool stuff.
+---
 
-#### What I actually do:
+### What I do
 
-* 🔧 Rescue broken Cursor / Lovable / Bolt codebases and fix the mess
-* 🤖 Build AI support & FAQ chatbots that actually understand your docs
-* ⚙️ Ship full-stack web apps that scale and don't crumble under pressure
-* 🌱 Build RAG systems and multi-tenant AI tools that work
+- 🔧 **Fix AI-generated codebases** (Cursor / Lovable / Bolt projects) and turn them into maintainable apps
+- 🤖 Build **doc-aware support & FAQ chatbots** with strong retrieval + low hallucinations
+- ⚙️ Ship **full-stack apps** that scale (auth, billing, multi-tenant, dashboards, APIs)
+- 🌱 Design + implement **RAG pipelines** (chunking, embeddings, evals, citations, observability)
 
-#### Tech Stack:
+---
+
+### Featured project
+
+**[youtube-rag](https://github.com/itsyasirkhandev/youtube-rag)**  
+Extract YouTube captions → generate embeddings → chat with video content using **RAG + Cloudflare Workers**.
+
+---
+
+### Tech stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -34,22 +44,25 @@ Right now, my favorite project is [youtube-rag](https://github.com/itsyasirkhand
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-#### Let's work together:
+---
 
-Got an AI-generated app that's crashing and needs rescue? Need an AI chatbot that actually understands your docs and FAQs instead of hallucinating? Want to build something cool and ship it fast?
+### Let’s work together
 
-Hit me up – let's turn your ideas into real products.
+Need an AI-generated app rescued? Want a RAG chatbot that understands your docs and doesn’t make things up?  
+Send a message and tell me what you’re building.
 
 <a href="mailto:yasirwebio@gmail.com">
-  <img src="https://img.shields.io/badge/Email_me-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  <img src="https://img.shields.io/badge/Email-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/connectyasir">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-connectyasir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-#### Fun Facts:
+---
 
-* 🎌 Sword Art Online is my favorite anime – seriously, I rewatch it all the time
-* 💻 I love building stuff, no matter how random the idea
-* 🚀 If I can imagine it, I'll build it and ship it
-* ⚡ I move fast, but the code is solid – no shortcuts on quality
+### Fun facts
+
+- 🐶 I have **one dog**
+- ☕ I don’t like **coffee or tea**
+- 🎌 **Sword Art Online** is my favorite anime
+- 🏏 **Hobbies:** anime, cricket, building things
