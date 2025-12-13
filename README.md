@@ -1,69 +1,27 @@
-# 💫 Hi there, I'm Yasir Khan
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-**I fix AI‑generated MVPs and build AI support chatbots.**  
-*Full‑Stack Developer & AI Engineer | If I can imagine it, I'll build and ship it.*
+I'm **Yasir Khan**, a full-stack developer & AI engineer.
 
----
+I fix broken AI-generated MVPs and build RAG chatbots that actually work.
 
-### 🧐 What I do
+If an idea pops into my head, chances are I'll build it and ship it.
 
-I help SaaS founders and online businesses ship products that don't fall apart in production.
+My main tech stack is React, Next.js, SvelteKit, TypeScript, Tailwind, Firebase, Supabase, and Cloudflare. I love working with LangChain and Google Gemini for AI stuff.
 
-- 🔧 **Rescue fragile AI‑generated MVPs**  
-  Clean up Cursor / Lovable / Bolt codebases, fix Firebase/Vercel errors, and turn "vibecoded" prototypes into production‑ready apps.
+I've got a bunch of pinned projects, but my favorite right now is [youtube-rag](https://github.com/itsyasirkhandev/youtube-rag) – extract YouTube captions, generate embeddings, and chat with videos using RAG & Cloudflare Workers.
 
-- 🤖 **Build AI customer support & RAG chatbots**  
-  LangChain‑powered assistants that answer from your own docs, FAQs, and product data instead of hallucinating.
+I've shipped over 100 public repos, but privately.. it's probably more than 200 at this point.
 
-- ⚙️ **Ship full‑stack web apps**  
-  Type‑safe React/Next.js/SvelteKit frontends with Firebase/Supabase backends that scale and don't break under load.
+#### What I do:
 
-- 🌱 **Current focus**  
-  Multi‑tenant RAG systems, AI-augmented engineering, and patterns that actually work in production.
+* <img src="https://emojis.slackmojis.com/emojis/images/1450319444/204/tool.png" width="20"/> Rescue Cursor / Lovable / Bolt codebases that are falling apart
+* <img src="https://emojis.slackmojis.com/emojis/images/1450451189/249/robot_face.png" width="20"/> Build AI support & FAQ chatbots that use your actual data
+* <img src="https://emojis.slackmojis.com/emojis/images/1450379189/271/gear.png" width="20"/> Ship full-stack web apps that don't break in production
+* <img src="https://emojis.slackmojis.com/emojis/images/1535958812/3875/seedling.png" width="20"/> Build multi-tenant RAG systems and AI-augmented tools
 
----
+#### Let's work together:
 
-### 🛠 My Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & Data**  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & LLMs**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-121212?style=flat-square)
-
-**DevOps**  
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-### 📌 Recent Projects
-
-- **[youtube-rag](https://github.com/itsyasirkhandev/youtube-rag)** – Extract YouTube captions, generate embeddings, chat with videos using RAG & Cloudflare Workers
-- Building AI support bots that actually understand your product
-
----
-
-### 🤝 Let's Work Together
-
-Got an **AI‑generated app that's breaking**?  
-Need an **AI support chatbot** that uses your docs?  
-Want to **ship something fast**?
+Got an AI-generated app that's crashing? Need an AI chatbot that actually understands your docs? Want to build something fast?
 
 <a href="mailto:yasirwebio@gmail.com">
   <img src="https://img.shields.io/badge/Email_me-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
@@ -72,15 +30,9 @@ Want to **ship something fast**?
   <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
----
+#### Fun Facts:
 
-### 🎬 Fun Facts
-
-* 🎌 Anime enthusiast – Sword Art Online is my favorite
-* 💻 I've shipped 10+ public repos (and counting)
-* 🚀 If I can imagine it, I'll build it
-* ⚡ I ship fast, but with senior‑level architecture
-
----
-
-**Let's build something cool together!** 🚀
+* <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4607/flag-jp.png" width="20"/> Sword Art Online is my favorite anime
+* <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4561/laptop.png" width="20"/> I've built way too many projects to count
+* <img src="https://emojis.slackmojis.com/emojis/images/1450319444/212/rocket.png" width="20"/> If I can imagine it, I'll build it
+* <img src="https://emojis.slackmojis.com/emojis/images/1450319444/225/zap.png" width="20"/> I ship fast, with senior-level quality
