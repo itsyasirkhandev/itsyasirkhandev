@@ -1,23 +1,17 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Yasir Khan**, a full-stack developer & AI engineer.
+I'm **Yasir Khan**, a full-stack developer & AI engineer based on fixing broken AI MVPs and building RAG systems.
 
-I fix broken AI-generated MVPs and build RAG chatbots that actually work.
+If an idea pops into my head, I'll build it and ship it. I've built 10+ public repos and I'm always working on something new.
 
-If an idea pops into my head, chances are I'll build it and ship it.
+Right now, my favorite project is [youtube-rag](https://github.com/itsyasirkhandev/youtube-rag) – it lets you extract YouTube captions, generate embeddings, and have actual conversations about video content using RAG & Cloudflare Workers. Pretty cool stuff.
 
-My main tech stack is React, Next.js, SvelteKit, TypeScript, Tailwind, Firebase, Supabase, and Cloudflare. I love working with LangChain and Google Gemini for AI stuff.
+#### What I actually do:
 
-I've got a bunch of pinned projects, but my favorite right now is [youtube-rag](https://github.com/itsyasirkhandev/youtube-rag) – extract YouTube captions, generate embeddings, and chat with videos using RAG & Cloudflare Workers.
-
-I've shipped over 100 public repos, but privately.. it's probably more than 200 at this point.
-
-#### What I do:
-
-* 🔧 Rescue Cursor / Lovable / Bolt codebases that are falling apart
-* 🤖 Build AI support & FAQ chatbots that use your actual data
-* ⚙️ Ship full-stack web apps that don't break in production
-* 🌱 Build multi-tenant RAG systems and AI-augmented tools
+* 🔧 Rescue broken Cursor / Lovable / Bolt codebases and fix the mess
+* 🤖 Build AI support & FAQ chatbots that actually understand your docs
+* ⚙️ Ship full-stack web apps that scale and don't crumble under pressure
+* 🌱 Build RAG systems and multi-tenant AI tools that work
 
 #### Tech Stack:
 
@@ -42,7 +36,9 @@ I've shipped over 100 public repos, but privately.. it's probably more than 200 
 
 #### Let's work together:
 
-Got an AI-generated app that's crashing? Need an AI chatbot that actually understands your docs? Want to build something fast?
+Got an AI-generated app that's crashing and needs rescue? Need an AI chatbot that actually understands your docs and FAQs instead of hallucinating? Want to build something cool and ship it fast?
+
+Hit me up – let's turn your ideas into real products.
 
 <a href="mailto:yasirwebio@gmail.com">
   <img src="https://img.shields.io/badge/Email_me-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
@@ -53,7 +49,7 @@ Got an AI-generated app that's crashing? Need an AI chatbot that actually unders
 
 #### Fun Facts:
 
-* 🎌 Sword Art Online is my favorite anime
-* 💻 I've built way too many projects to count
-* 🚀 If I can imagine it, I'll build it
-* ⚡ I ship fast, with senior-level quality
+* 🎌 Sword Art Online is my favorite anime – seriously, I rewatch it all the time
+* 💻 I love building stuff, no matter how random the idea
+* 🚀 If I can imagine it, I'll build it and ship it
+* ⚡ I move fast, but the code is solid – no shortcuts on quality
