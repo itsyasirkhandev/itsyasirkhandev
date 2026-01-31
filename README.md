@@ -1,81 +1,41 @@
-### Hey there! 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m **Yasir Khan** — a **Full‑Stack Developer & AI Engineer** who builds production-ready web apps and **LLM products** (especially **doc-aware chatbots** and **RAG systems**) with a focus on **reliability, low hallucinations, and great UX**.
-
-- ✅ Strong at shipping end‑to‑end: frontend → backend → auth/billing → deployment  
-- ✅ Comfortable owning the full lifecycle: discovery → build → eval → iterate → monitor  
-- ✅ I care about clean systems, fast performance, and measurable product outcomes  
+I’m **Yasir Khan** — full‑stack developer & AI engineer.  
 
 ---
 
-## What I build (and why it works)
+### What I do
 
-### 🤖 Doc-aware chatbots & support automation
-I build customer support / FAQ assistants that are grounded in real documentation and designed to be **trustworthy**:
-- Retrieval that prioritizes correct answers (high-signal chunking + reranking when needed)
-- Guardrails to reduce hallucinations (citations, fallback flows, “I don’t know” behavior)
-- Practical features: conversation memory, source links, admin controls, analytics
-
-**Typical use cases:** help centers, internal knowledge bases, onboarding assistants, product Q&A.
+- 🤖 Build **doc-aware support & FAQ chatbots** with strong retrieval + low hallucinations
+- ⚙️ Ship **full-stack apps** that scale (auth, billing, multi-tenant, dashboards, APIs)
+- 🌱 Design + implement **RAG pipelines** (chunking, embeddings, evals, citations, observability)
 
 ---
 
-### 🌱 RAG pipelines & LLM application architecture
-I design and implement RAG systems that are maintainable in production:
-- Chunking strategies, embeddings, retrieval tuning
-- Evaluation workflows (test sets, regression checks, quality scoring)
-- Observability and iteration loops (what users asked, where retrieval failed, what to fix)
 
----
-
-### ⚙️ Full‑stack apps that scale
-I ship modern apps with the “real world” pieces included:
-- Auth, roles, multi‑tenant architecture
-- Dashboards, APIs, integrations
-- Billing/checkout flows and operational tooling
-
----
-
-## How I work
-- **Product-minded engineering:** I optimize for user outcomes, not just “working code.”
-- **Pragmatic architecture:** simple where possible, structured where needed.
-- **Quality & reliability:** predictable behavior, good error handling, and performance discipline.
-
----
-
-## Tech stack
+### Tech stack
 
 **Frontend**  
-!<!--citation:1-->
-!<!--citation:2-->
-!<!--citation:3-->
-!<!--citation:4-->
-!<!--citation:5-->
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & Data**  
-!<!--citation:6-->
-!<!--citation:7-->
-!<!--citation:8-->
-!<!--citation:9-->
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 **AI & LLMs**  
-!<!--citation:10-->
-!<!--citation:11-->
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-## Proof (add your best 2–4 bullets here)
-If you have any measurable wins, this section boosts hireability a lot. Examples:
-- Built a doc-aware support chatbot that reduced repetitive tickets by **[X%]**
-- Shipped a multi-tenant SaaS dashboard used by **[X]** users / teams
-- Improved answer accuracy from **[X] → [Y]** using retrieval tuning + evals
-- Reduced response time by **[X%]** with caching / streaming / architecture changes
-
----
-
-## Let’s work together
-If you’re building a product that needs **fast shipping** + **AI done responsibly**, I’d love to help.
+### Let’s work together
 
 <a href="mailto:yasirwebio@gmail.com">
   <img src="https://img.shields.io/badge/Email-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -86,7 +46,9 @@ If you’re building a product that needs **fast shipping** + **AI done responsi
 
 ---
 
-## Fun facts (optional)
+### Fun facts
+
 - 🐶 I have **one dog**
-- 🎌 Favorite anime: **Sword Art Online**
-- 🏏 Hobbies: anime, cricket, building things
+- ☕ I don’t like **coffee or tea**
+- 🎌 **Sword Art Online** is my favorite anime
+- 🏏 **Hobbies:** anime, cricket, building things
