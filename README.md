@@ -1,15 +1,11 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I’m **Yasir Khan** — full‑stack developer & AI engineer.  
-I **rescue broken AI MVPs**, ship production-ready features, and build **RAG systems** that actually work.
-
-If I can imagine it, I’ll build it and ship it.
 
 ---
 
 ### What I do
 
-- 🔧 **Fix AI-generated codebases** (Cursor / Lovable / Bolt projects) and turn them into maintainable apps
 - 🤖 Build **doc-aware support & FAQ chatbots** with strong retrieval + low hallucinations
 - ⚙️ Ship **full-stack apps** that scale (auth, billing, multi-tenant, dashboards, APIs)
 - 🌱 Design + implement **RAG pipelines** (chunking, embeddings, evals, citations, observability)
@@ -40,9 +36,6 @@ If I can imagine it, I’ll build it and ship it.
 ---
 
 ### Let’s work together
-
-Need an AI-generated app rescued? Want a RAG chatbot that understands your docs and doesn’t make things up?  
-Send a message and tell me what you’re building.
 
 <a href="mailto:yasirwebio@gmail.com">
   <img src="https://img.shields.io/badge/Email-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
