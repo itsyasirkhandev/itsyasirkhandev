@@ -16,12 +16,6 @@ If I can imagine it, I’ll build it and ship it.
 
 ---
 
-### Featured project
-
-**[youtube-rag](https://github.com/itsyasirkhandev/youtube-rag)**  
-Extract YouTube captions → generate embeddings → chat with video content using **RAG + Cloudflare Workers**.
-
----
 
 ### Tech stack
 
@@ -37,7 +31,6 @@ Extract YouTube captions → generate embeddings → chat with video content usi
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI & LLMs**  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
