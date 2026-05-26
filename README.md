@@ -11,7 +11,6 @@ I tend to jump between a few different areas, but lately, it’s mostly been the
 *   **Full-stack applications:** learning and building application with nextjs , convex , tailwind css, shadcn.
 *   **AI Stack:** using Antigravity IDE and Antigravity and using agentic coding with skills, mcp's for faster development and learning new stack and strategires. 
 
-
 ---
 
 ### The tools I use
@@ -20,11 +19,11 @@ I’m fairly platform-agnostic, but I definitely have my favorites. These are th
 
 **Frontend & Logic**  
 
-typescript, nextjs , tailwind css, shadcn v4 , zustand
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui_v4-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 
 **Backend & Infrastructure**  
 
-convex, cloudflare, firebase auth, Brevo for emails, polar.sh for payments. 
+![Convex](https://img.shields.io/badge/Convex-FF5B4F?style=flat-square&logo=convex&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Brevo](https://img.shields.io/badge/Brevo_for_emails-0092FF?style=flat-square&logo=brevo&logoColor=white) ![Polar.sh](https://img.shields.io/badge/Polar.sh_for_payments-000000?style=flat-square)
 
 
 **AI & LLMs**  
