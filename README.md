@@ -30,6 +30,8 @@ I’m fairly platform-agnostic, but I definitely have my favorites. These are th
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+[![Convex](https://shields.io)](https://convex.dev)
+
 
 **AI & LLMs**  
 
