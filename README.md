@@ -4,18 +4,18 @@ I’m a full-stack developer and AI engineer.
 
 ---
 
-### What I’ve been focusing on
+### Current progress & focus
 
-I tend to jump between a few different areas, but lately, it’s mostly been these:
+I try to avoid the noise in the ai space and keep building and showing. To achieve consistency, I divide my large tasks into smaller ones to trick my brain to get started. Lately, my most important tasks have been:
 
-*   **Full-stack applications:** learning and building application with nextjs , convex , tailwind css, shadcn.
-*   **AI Stack:** using Antigravity IDE and Antigravity and using agentic coding with skills, mcp's for faster development and learning new stack and strategires. 
+*   **Full-stack applications:** learning and building applications with nextjs, convex, tailwind css, and shadcn.
+*   **AI Stack:** using Antigravity IDE and agentic coding with skills and MCPs for faster development and learning new strategies. 
 
 ---
 
 ### The tools I use
 
-I’m fairly platform-agnostic, but I definitely have my favorites. These are the ones I find myself reaching for most often:
+I'm fairly platform-agnostic, but these are the tools I am currently dedicating my time to practicing and using:
 
 **Frontend & Logic**  
 
@@ -32,20 +32,20 @@ I’m fairly platform-agnostic, but I definitely have my favorites. These are th
 
 ---
 
-### A bit about me
+### Reminders & a bit about me
 
-When I’m not staring at a terminal or trying to figure out why an embedding search isn’t returning what I expected, I’m usually doing something quite different.
+One thing I want to remember is to believe in yourself—because the bird believes that even if the branch is broken, it can still fly and save itself from falling. When I am not staring at a terminal, I'm usually doing something quite different:
 
-*   I’m probably one of the few developers who doesn't actually drink coffee or tea. I’m not sure how I survive the late nights, but it works for me.
-*   I have a dog who keeps me company while I work.
-*   I’m a big fan of cricket and anime. *Sword Art Online* is a personal favorite, perhaps because the idea of living inside a game is still pretty fascinating to me. 
-*   I enjoy building things, even if it's just a small side project that only I will ever use.
+*   I usually start my day with *chai our paratha*, though I somehow survive the late nights of development without relying on coffee.
+*   I have a dog who keeps me company while I work and practice my skills.
+*   I’m a big fan of cricket and anime. *Sword Art Online* is a personal favorite, perhaps because the psychology of living inside a game is still pretty fascinating to me. 
+*   I enjoy building things, starting small even if it's just a side project that only I will ever use.
 
 ---
 
 ### Let’s connect
 
-If you want to talk about AI, full-stack dev, or even just cricket—feel free to reach out. I'm always open to interesting collaborations or just a quick chat about a project.
+If any designer, developer, or genuine person reading my profile wants to connect, feel free to reach out. I believe in finding the person, appreciating their work, and asking questions. Whether it's about ai, full-stack dev, or just cricket—I am always happy to chat.
 
 <a href="mailto:yasirwebio@gmail.com">
   <img src="https://img.shields.io/badge/Email-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
