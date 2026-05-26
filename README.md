@@ -8,8 +8,8 @@ I’m a full-stack developer and AI engineer.
 
 I tend to jump between a few different areas, but lately, it’s mostly been these:
 
-*   **Building RAG systems:** I spend a lot of time on the "boring" but important parts of AI—chunking strategies, embeddings, and trying to keep hallucinations to a minimum. I think getting a chatbot to actually cite its sources correctly is one of the more satisfying challenges out there.
-*   **Full-stack applications:** I build tools that need to scale, handling the usual stuff like multi-tenancy, billing, and complex dashboards. I try to make sure the architecture makes sense before I start coding, though sometimes things evolve as I go.
+*   **Full-stack applications:** learning and building application with nextjs , convex , tailwind css, shadcn.
+*   **AI Stack:** using Antigravity IDE and Antigravity and using agentic coding with skills, mcp's for faster development and learning new stack and strategires. 
 
 
 ---
@@ -20,16 +20,11 @@ I’m fairly platform-agnostic, but I definitely have my favorites. These are th
 
 **Frontend & Logic**  
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+typescript, nextjs , tailwind css, shadcn v4 , zustand
 
 **Backend & Infrastructure**  
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+convex, cloudflare, firebase auth, Brevo for emails, polar.sh for payments. 
 
 
 **AI & LLMs**  
