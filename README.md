@@ -2,12 +2,12 @@
 
 Full-stack developer and AI engineer.
 
-**Focusing**
+**Focus**
 
-- AI Driven Software Development
-- Improving AI Agentic workflow (Cloud Agents, Workflows, T3 code, Pi coding Agent)
+- AI-assisted full-stack development
+- Agentic workflows with cloud agents, T3 Code, and Pi
 
-**Stack I Prefer and Use most of the Times**
+**Stack**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui_v4-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 
@@ -15,17 +15,23 @@ Full-stack developer and AI engineer.
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 
-**More About Me**
-I live in pakistan. My father is a farmer, and I am married and currently looking for freelance work and job.
+**Building in public**
 
+I share AI harness setups and how I use AI for development on YouTube, and post progress on LinkedIn.
 
-**Contact**
+**Connect**
 
-For questions on full-stack work or just to talk, my inbox is open.
+Open to chat about full-stack work and agentic coding. Email is fastest.
 
 <a href="mailto:yasirwebio@gmail.com">
   <img src="https://img.shields.io/badge/Email-yasirwebio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/connectyasir">
   <img src="https://img.shields.io/badge/LinkedIn-connectyasir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/@buildwithyasir">
+  <img src="https://img.shields.io/badge/YouTube-buildwithyasir-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://yasirkhan.link">
+  <img src="https://img.shields.io/badge/Web-yasirkhan.link-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Website" />
 </a>
